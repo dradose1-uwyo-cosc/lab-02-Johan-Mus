@@ -1,19 +1,17 @@
-# Your Name Here
+# Johan David Muscutt
 # UWYO COSC 1010
-# Submission Date
+# 09/17/2024
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 11
+# Sources, people worked with, help given to: NA
+# This is for Lab 02
 
-your_variable_here = "when you see this, replace it with your code"
+Greeting= "Hello, COSC 1010"
 
 ## Section ONE
 
 # Complete the following print statement to print out "Hello, COSC1010"
-print()
+print("Hello, COSC 1010")
 
 # Assign the string above to a variable named hello_message and print that variable
 hello_message = ""
