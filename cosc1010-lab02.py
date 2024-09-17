@@ -6,16 +6,14 @@
 # Sources, people worked with, help given to: NA
 # This is for Lab 02
 
-Greeting= "Hello, COSC 1010"
-
 ## Section ONE
 
 # Complete the following print statement to print out "Hello, COSC1010"
 print("Hello, COSC 1010")
 
 # Assign the string above to a variable named hello_message and print that variable
-hello_message = ""
-print("Your code here")
+hello_message = "Hello, COSC 1010"
+print("hello_message")
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
 print("Your code here")
